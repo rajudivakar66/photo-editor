@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- A landscape photo: frame, sun and two hills, inside the 72dp safe zone. -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <path
+        android:fillColor="#FFFFFFFF"
+        android:pathData="M32,36h44a4,4 0,0 1,4 4v28a4,4 0,0 1,-4 4h-44a4,4 0,0 1,-4 -4v-28a4,4 0,0 1,4 -4z" />
+    <path
+        android:fillColor="#FF3D5AFE"
+        android:pathData="M33,41h42v26h-42z" />
+    <path
+        android:fillColor="#FFFFD54F"
+        android:pathData="M64,49m-5,0a5,5 0,1 1,10 0a5,5 0,1 1,-10 0" />
+    <path
+        android:fillColor="#FFFFFFFF"
+        android:pathData="M33,67l13,-15l9,10l6,-6l14,11z" />
+</vector>
